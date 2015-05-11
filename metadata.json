@@ -1,0 +1,13 @@
+{
+  "author": "GT CoC Technology Services Organization",
+  "dependencies": [],
+  "license": "Apache",
+  "name": "tsoresearch-roles",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://github.gatech.edu/tso-research/puppet-modules-roles-r10k",
+  "summary": "Site-specific roles for each host",
+  "tags": [],
+  "version": "0.1.0"
+}
